@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "language": "tr-en",
+  "lastUpdated": "2026-11-19",
+  "levels": [
+    {
+      "id": "A1",
+      "name": "Başlangıç",
+      "wordCount": 500,
+      "file": "tr-en/A1/daily-life.json"
+    },
+    {
+      "id": "A2",
+      "name": "Temel",
+      "wordCount": 750,
+      "file": "tr-en/A2/daily-life.json"
+    },
+    {
+      "id": "B1",
+      "name": "Orta",
+      "wordCount": 1000,
+      "file": "tr-en/B1/daily-life.json"
+    }
+  ]
+}
