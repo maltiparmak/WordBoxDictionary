@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 100001,
+    "english": "a",
+    "turkish": "bir",
+    "level": "A1",
+    "type": "article",
+    "createdBy": "system"
+  },
+  {
+    "id": 100002,
+    "english": "about",
+    "turkish": "hakkında; yaklaşık",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100003,
+    "english": "above",
+    "turkish": "üstünde",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100004,
+    "english": "across",
+    "turkish": "karşıya; boyunca",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100005,
+    "english": "afternoon",
+    "turkish": "öğleden sonra",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100006,
+    "english": "again",
+    "turkish": "tekrar",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100007,
+    "english": "age",
+    "turkish": "yaş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100008,
+    "english": "ago",
+    "turkish": "önce",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100009,
+    "english": "all",
+    "turkish": "hepsi; bütün",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100010,
+    "english": "always",
+    "turkish": "her zaman",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100011,
+    "english": "amazing",
+    "turkish": "harika",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100012,
+    "english": "and",
+    "turkish": "ve",
+    "level": "A1",
+    "type": "conjunction",
+    "createdBy": "system"
+  },
+  {
+    "id": 100013,
+    "english": "angry",
+    "turkish": "kızgın",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100014,
+    "english": "animal",
+    "turkish": "hayvan",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100015,
+    "english": "answer",
+    "turkish": "cevap; cevaplamak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100016,
+    "english": "any",
+    "turkish": "herhangi bir",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100017,
+    "english": "anyone",
+    "turkish": "herhangi biri",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100018,
+    "english": "anything",
+    "turkish": "herhangi bir şey",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100019,
+    "english": "apple",
+    "turkish": "elma",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100020,
+    "english": "April",
+    "turkish": "Nisan",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100021,
+    "english": "arm",
+    "turkish": "kol",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100022,
+    "english": "around",
+    "turkish": "etrafında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100023,
+    "english": "arrive",
+    "turkish": "varmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100024,
+    "english": "art",
+    "turkish": "sanat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100025,
+    "english": "ask",
+    "turkish": "sormak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100026,
+    "english": "at",
+    "turkish": "(-de/-da); saatinde",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100027,
+    "english": "August",
+    "turkish": "Ağustos",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100028,
+    "english": "aunt",
+    "turkish": "teyze; hala",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100029,
+    "english": "away",
+    "turkish": "uzakta",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100030,
+    "english": "baby",
+    "turkish": "bebek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100031,
+    "english": "back",
+    "turkish": "sırt; arka",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100032,
+    "english": "bad",
+    "turkish": "kötü",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100033,
+    "english": "bag",
+    "turkish": "çanta",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100034,
+    "english": "ball",
+    "turkish": "top",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100035,
+    "english": "banana",
+    "turkish": "muz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100036,
+    "english": "bank",
+    "turkish": "banka",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100037,
+    "english": "bath",
+    "turkish": "banyo",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100038,
+    "english": "bathroom",
+    "turkish": "banyo; tuvalet",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100039,
+    "english": "be",
+    "turkish": "olmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100040,
+    "english": "beach",
+    "turkish": "plaj",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100041,
+    "english": "beautiful",
+    "turkish": "güzel",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100042,
+    "english": "because",
+    "turkish": "çünkü",
+    "level": "A1",
+    "type": "conjunction",
+    "createdBy": "system"
+  },
+  {
+    "id": 100043,
+    "english": "bed",
+    "turkish": "yatak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100044,
+    "english": "bedroom",
+    "turkish": "yatak odası",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100045,
+    "english": "before",
+    "turkish": "önce",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100046,
+    "english": "begin",
+    "turkish": "başlamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100047,
+    "english": "behind",
+    "turkish": "arkasında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100048,
+    "english": "believe",
+    "turkish": "inanmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100049,
+    "english": "below",
+    "turkish": "altında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100050,
+    "english": "best",
+    "turkish": "en iyi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100051,
+    "english": "better",
+    "turkish": "daha iyi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100052,
+    "english": "between",
+    "turkish": "arasında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100053,
+    "english": "big",
+    "turkish": "büyük",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100054,
+    "english": "bike",
+    "turkish": "bisiklet",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100055,
+    "english": "bird",
+    "turkish": "kuş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100056,
+    "english": "birthday",
+    "turkish": "doğum günü",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100057,
+    "english": "black",
+    "turkish": "siyah",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100058,
+    "english": "blue",
+    "turkish": "mavi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100059,
+    "english": "boat",
+    "turkish": "tekne",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100060,
+    "english": "body",
+    "turkish": "vücut",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100061,
+    "english": "book",
+    "turkish": "kitap",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100062,
+    "english": "bored",
+    "turkish": "sıkılmış",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100063,
+    "english": "boring",
+    "turkish": "sıkıcı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100064,
+    "english": "born",
+    "turkish": "doğmuş",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100065,
+    "english": "both",
+    "turkish": "ikisi de",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100066,
+    "english": "bottle",
+    "turkish": "şişe",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100067,
+    "english": "box",
+    "turkish": "kutu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100068,
+    "english": "boy",
+    "turkish": "erkek çocuk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100069,
+    "english": "bread",
+    "turkish": "ekmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100070,
+    "english": "break",
+    "turkish": "kırmak; mola",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100071,
+    "english": "breakfast",
+    "turkish": "kahvaltı",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100072,
+    "english": "brother",
+    "turkish": "erkek kardeş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100073,
+    "english": "brown",
+    "turkish": "kahverengi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100074,
+    "english": "build",
+    "turkish": "inşa etmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100075,
+    "english": "bus",
+    "turkish": "otobüs",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100076,
+    "english": "business",
+    "turkish": "iş; işletme",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100077,
+    "english": "busy",
+    "turkish": "meşgul",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100078,
+    "english": "but",
+    "turkish": "ama",
+    "level": "A1",
+    "type": "conjunction",
+    "createdBy": "system"
+  },
+  {
+    "id": 100079,
+    "english": "buy",
+    "turkish": "satın almak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100080,
+    "english": "by",
+    "turkish": "tarafından; yanında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100081,
+    "english": "cake",
+    "turkish": "kek; pasta",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100082,
+    "english": "call",
+    "turkish": "aramak; çağırmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100083,
+    "english": "camera",
+    "turkish": "kamera",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100084,
+    "english": "can",
+    "turkish": "ebilmek",
+    "level": "A1",
+    "type": "modal",
+    "createdBy": "system"
+  },
+  {
+    "id": 100085,
+    "english": "cannot",
+    "turkish": "yapamamak",
+    "level": "A1",
+    "type": "modal",
+    "createdBy": "system"
+  },
+  {
+    "id": 100086,
+    "english": "car",
+    "turkish": "araba",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100087,
+    "english": "card",
+    "turkish": "kart",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100088,
+    "english": "care",
+    "turkish": "bakım; önemsemek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100089,
+    "english": "careful",
+    "turkish": "dikkatli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100090,
+    "english": "carry",
+    "turkish": "taşımak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100091,
+    "english": "cat",
+    "turkish": "kedi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100092,
+    "english": "catch",
+    "turkish": "yakalamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100093,
+    "english": "chair",
+    "turkish": "sandalye",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100094,
+    "english": "change",
+    "turkish": "değiştirmek; değişiklik",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100095,
+    "english": "cheap",
+    "turkish": "ucuz",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100096,
+    "english": "cheese",
+    "turkish": "peynir",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100097,
+    "english": "chicken",
+    "turkish": "tavuk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100098,
+    "english": "child",
+    "turkish": "çocuk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100099,
+    "english": "children",
+    "turkish": "çocuklar",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100100,
+    "english": "chocolate",
+    "turkish": "çikolata",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100101,
+    "english": "choose",
+    "turkish": "seçmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100102,
+    "english": "city",
+    "turkish": "şehir",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100103,
+    "english": "class",
+    "turkish": "sınıf; ders",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100104,
+    "english": "classroom",
+    "turkish": "derslik",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100105,
+    "english": "clean",
+    "turkish": "temiz; temizlemek",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100106,
+    "english": "climb",
+    "turkish": "tırmanmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100107,
+    "english": "clock",
+    "turkish": "saat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100108,
+    "english": "close",
+    "turkish": "kapatmak; yakın",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100109,
+    "english": "clothes",
+    "turkish": "giysiler",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100110,
+    "english": "cloud",
+    "turkish": "bulut",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100111,
+    "english": "cloudy",
+    "turkish": "bulutlu",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100112,
+    "english": "club",
+    "turkish": "kulüp",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100113,
+    "english": "coat",
+    "turkish": "mont; kaban",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100114,
+    "english": "coffee",
+    "turkish": "kahve",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100115,
+    "english": "cold",
+    "turkish": "soğuk",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100116,
+    "english": "colour",
+    "turkish": "renk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100117,
+    "english": "come",
+    "turkish": "gelmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100118,
+    "english": "comfortable",
+    "turkish": "rahat",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100119,
+    "english": "common",
+    "turkish": "yaygın",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100120,
+    "english": "computer",
+    "turkish": "bilgisayar",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100121,
+    "english": "cook",
+    "turkish": "yemek pişirmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100122,
+    "english": "cooking",
+    "turkish": "yemek pişirme",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100123,
+    "english": "cool",
+    "turkish": "serin; harika",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100124,
+    "english": "correct",
+    "turkish": "doğru",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100125,
+    "english": "cost",
+    "turkish": "fiyatı olmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100126,
+    "english": "could",
+    "turkish": "ebilirdi; rica kalıbı",
+    "level": "A1",
+    "type": "modal",
+    "createdBy": "system"
+  },
+  {
+    "id": 100127,
+    "english": "country",
+    "turkish": "ülke",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100128,
+    "english": "course",
+    "turkish": "kurs; ders",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100129,
+    "english": "cousin",
+    "turkish": "kuzen",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100130,
+    "english": "cow",
+    "turkish": "inek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100131,
+    "english": "cream",
+    "turkish": "krema",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100132,
+    "english": "cry",
+    "turkish": "ağlamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100133,
+    "english": "cup",
+    "turkish": "fincan; kupa",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100134,
+    "english": "customer",
+    "turkish": "müşteri",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100135,
+    "english": "cut",
+    "turkish": "kesmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100136,
+    "english": "dad",
+    "turkish": "baba",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100137,
+    "english": "dance",
+    "turkish": "dans etmek; dans",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100138,
+    "english": "dangerous",
+    "turkish": "tehlikeli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100139,
+    "english": "dark",
+    "turkish": "karanlık; koyu",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100140,
+    "english": "date",
+    "turkish": "tarih; randevu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100141,
+    "english": "daughter",
+    "turkish": "kız evlat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100142,
+    "english": "day",
+    "turkish": "gün",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100143,
+    "english": "December",
+    "turkish": "Aralık",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100144,
+    "english": "decide",
+    "turkish": "karar vermek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100145,
+    "english": "delicious",
+    "turkish": "lezzetli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100146,
+    "english": "describe",
+    "turkish": "tanımlamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100147,
+    "english": "desk",
+    "turkish": "çalışma masası",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100148,
+    "english": "dictionary",
+    "turkish": "sözlük",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100149,
+    "english": "different",
+    "turkish": "farklı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100150,
+    "english": "difficult",
+    "turkish": "zor",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100151,
+    "english": "dinner",
+    "turkish": "akşam yemeği",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100152,
+    "english": "dirty",
+    "turkish": "kirli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100153,
+    "english": "do",
+    "turkish": "yapmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100154,
+    "english": "doctor",
+    "turkish": "doktor",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100155,
+    "english": "dog",
+    "turkish": "köpek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100156,
+    "english": "door",
+    "turkish": "kapı",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100157,
+    "english": "down",
+    "turkish": "aşağı",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100158,
+    "english": "draw",
+    "turkish": "çizmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100159,
+    "english": "dream",
+    "turkish": "rüya; hayal kurmak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100160,
+    "english": "dress",
+    "turkish": "elbise; giyinmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100161,
+    "english": "drink",
+    "turkish": "içmek; içecek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100162,
+    "english": "drive",
+    "turkish": "araba sürmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100163,
+    "english": "driver",
+    "turkish": "sürücü",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100164,
+    "english": "during",
+    "turkish": "sırasında",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100165,
+    "english": "each",
+    "turkish": "her biri",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100166,
+    "english": "ear",
+    "turkish": "kulak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100167,
+    "english": "early",
+    "turkish": "erken",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100168,
+    "english": "east",
+    "turkish": "doğu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100169,
+    "english": "easy",
+    "turkish": "kolay",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100170,
+    "english": "eat",
+    "turkish": "yemek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100171,
+    "english": "egg",
+    "turkish": "yumurta",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100172,
+    "english": "eight",
+    "turkish": "sekiz",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100173,
+    "english": "eighteen",
+    "turkish": "on sekiz",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100174,
+    "english": "eighty",
+    "turkish": "seksen",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100175,
+    "english": "eleven",
+    "turkish": "on bir",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100176,
+    "english": "else",
+    "turkish": "başka",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100177,
+    "english": "email",
+    "turkish": "e-posta",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100178,
+    "english": "end",
+    "turkish": "bitirmek; son",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100179,
+    "english": "enjoy",
+    "turkish": "keyif almak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100180,
+    "english": "enough",
+    "turkish": "yeterli",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100181,
+    "english": "even",
+    "turkish": "hatta",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100182,
+    "english": "evening",
+    "turkish": "akşam",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100183,
+    "english": "ever",
+    "turkish": "hiç",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100184,
+    "english": "every",
+    "turkish": "her",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100185,
+    "english": "everybody",
+    "turkish": "herkes",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100186,
+    "english": "everyone",
+    "turkish": "herkes",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100187,
+    "english": "everything",
+    "turkish": "her şey",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100188,
+    "english": "exam",
+    "turkish": "sınav",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100189,
+    "english": "example",
+    "turkish": "örnek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100190,
+    "english": "excited",
+    "turkish": "heyecanlı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100191,
+    "english": "exciting",
+    "turkish": "heyecan verici",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100192,
+    "english": "exercise",
+    "turkish": "egzersiz; egzersiz yapmak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100193,
+    "english": "expensive",
+    "turkish": "pahalı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100194,
+    "english": "explain",
+    "turkish": "açıklamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100195,
+    "english": "eye",
+    "turkish": "göz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100196,
+    "english": "face",
+    "turkish": "yüz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100197,
+    "english": "fact",
+    "turkish": "gerçek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100198,
+    "english": "fall",
+    "turkish": "düşmek; sonbahar",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100199,
+    "english": "family",
+    "turkish": "aile",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100200,
+    "english": "famous",
+    "turkish": "ünlü",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100201,
+    "english": "fantastic",
+    "turkish": "muhteşem",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100202,
+    "english": "far",
+    "turkish": "uzak",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100203,
+    "english": "farm",
+    "turkish": "çiftlik",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100204,
+    "english": "fast",
+    "turkish": "hızlı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100205,
+    "english": "father",
+    "turkish": "baba",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100206,
+    "english": "February",
+    "turkish": "Şubat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100207,
+    "english": "feel",
+    "turkish": "hissetmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100208,
+    "english": "feeling",
+    "turkish": "his",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100209,
+    "english": "few",
+    "turkish": "az; birkaç",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100210,
+    "english": "fifteen",
+    "turkish": "on beş",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100211,
+    "english": "fifth",
+    "turkish": "beşinci",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100212,
+    "english": "fifty",
+    "turkish": "elli",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100213,
+    "english": "fill",
+    "turkish": "doldurmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100214,
+    "english": "film",
+    "turkish": "film",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100215,
+    "english": "find",
+    "turkish": "bulmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100216,
+    "english": "fine",
+    "turkish": "iyi; sorun değil",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100217,
+    "english": "finish",
+    "turkish": "bitirmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100218,
+    "english": "first",
+    "turkish": "ilk; birinci",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100219,
+    "english": "fish",
+    "turkish": "balık",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100220,
+    "english": "five",
+    "turkish": "beş",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100221,
+    "english": "floor",
+    "turkish": "zemin; kat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100222,
+    "english": "flower",
+    "turkish": "çiçek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100223,
+    "english": "fly",
+    "turkish": "uçmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100224,
+    "english": "food",
+    "turkish": "yiyecek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100225,
+    "english": "foot",
+    "turkish": "ayak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100226,
+    "english": "football",
+    "turkish": "futbol",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100227,
+    "english": "for",
+    "turkish": "için",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100228,
+    "english": "forget",
+    "turkish": "unutmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100229,
+    "english": "form",
+    "turkish": "form; şekil",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100230,
+    "english": "forty",
+    "turkish": "kırk",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100231,
+    "english": "four",
+    "turkish": "dört",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100232,
+    "english": "fourteen",
+    "turkish": "on dört",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100233,
+    "english": "free",
+    "turkish": "ücretsiz; boş",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100234,
+    "english": "Friday",
+    "turkish": "Cuma",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100235,
+    "english": "friend",
+    "turkish": "arkadaş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100236,
+    "english": "friendly",
+    "turkish": "arkadaş canlısı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100237,
+    "english": "from",
+    "turkish": "(-den/-dan)",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100238,
+    "english": "front",
+    "turkish": "ön",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100239,
+    "english": "fruit",
+    "turkish": "meyve",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100240,
+    "english": "full",
+    "turkish": "dolu",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100241,
+    "english": "fun",
+    "turkish": "eğlence",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100242,
+    "english": "funny",
+    "turkish": "komik",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100243,
+    "english": "future",
+    "turkish": "gelecek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100244,
+    "english": "game",
+    "turkish": "oyun",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100245,
+    "english": "garden",
+    "turkish": "bahçe",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100246,
+    "english": "get",
+    "turkish": "almak; edinmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100247,
+    "english": "girl",
+    "turkish": "kız çocuk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100248,
+    "english": "give",
+    "turkish": "vermek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100249,
+    "english": "glass",
+    "turkish": "bardak; cam",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100250,
+    "english": "go",
+    "turkish": "gitmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100251,
+    "english": "good",
+    "turkish": "iyi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100252,
+    "english": "goodbye",
+    "turkish": "hoşça kal",
+    "level": "A1",
+    "type": "interjection",
+    "createdBy": "system"
+  },
+  {
+    "id": 100253,
+    "english": "grandfather",
+    "turkish": "büyükbaba",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100254,
+    "english": "grandmother",
+    "turkish": "büyükanne",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100255,
+    "english": "great",
+    "turkish": "harika; büyük",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100256,
+    "english": "green",
+    "turkish": "yeşil",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100257,
+    "english": "grey",
+    "turkish": "gri",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100258,
+    "english": "group",
+    "turkish": "grup",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100259,
+    "english": "grow",
+    "turkish": "büyümek; yetiştirmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100260,
+    "english": "guess",
+    "turkish": "tahmin etmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100261,
+    "english": "guitar",
+    "turkish": "gitar",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100262,
+    "english": "hair",
+    "turkish": "saç",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100263,
+    "english": "half",
+    "turkish": "yarım",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100264,
+    "english": "hand",
+    "turkish": "el",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100265,
+    "english": "happen",
+    "turkish": "olmak; meydana gelmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100266,
+    "english": "happy",
+    "turkish": "mutlu",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100267,
+    "english": "hard",
+    "turkish": "zor; sert",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100268,
+    "english": "hat",
+    "turkish": "şapka",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100269,
+    "english": "hate",
+    "turkish": "nefret etmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100270,
+    "english": "have",
+    "turkish": "sahip olmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100271,
+    "english": "he",
+    "turkish": "o (erkek)",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100272,
+    "english": "head",
+    "turkish": "baş; kafa",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100273,
+    "english": "health",
+    "turkish": "sağlık",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100274,
+    "english": "healthy",
+    "turkish": "sağlıklı",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100275,
+    "english": "hear",
+    "turkish": "duymak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100276,
+    "english": "hello",
+    "turkish": "merhaba",
+    "level": "A1",
+    "type": "interjection",
+    "createdBy": "system"
+  },
+  {
+    "id": 100277,
+    "english": "help",
+    "turkish": "yardım etmek; yardım",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100278,
+    "english": "her",
+    "turkish": "onu; onun (kadın)",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100279,
+    "english": "here",
+    "turkish": "burada",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100280,
+    "english": "hey",
+    "turkish": "hey; selam",
+    "level": "A1",
+    "type": "interjection",
+    "createdBy": "system"
+  },
+  {
+    "id": 100281,
+    "english": "high",
+    "turkish": "yüksek",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100282,
+    "english": "him",
+    "turkish": "onu; ona (erkek)",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100283,
+    "english": "his",
+    "turkish": "onun (erkek)",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100284,
+    "english": "history",
+    "turkish": "tarih",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100285,
+    "english": "hobby",
+    "turkish": "hobi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100286,
+    "english": "holiday",
+    "turkish": "tatil",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100287,
+    "english": "home",
+    "turkish": "ev",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100288,
+    "english": "homework",
+    "turkish": "ödev",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100289,
+    "english": "hope",
+    "turkish": "umut etmek; umut",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100290,
+    "english": "horse",
+    "turkish": "at",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100291,
+    "english": "hospital",
+    "turkish": "hastane",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100292,
+    "english": "hot",
+    "turkish": "sıcak",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100293,
+    "english": "hotel",
+    "turkish": "otel",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100294,
+    "english": "hour",
+    "turkish": "saat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100295,
+    "english": "house",
+    "turkish": "ev",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100296,
+    "english": "how",
+    "turkish": "nasıl",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100297,
+    "english": "hundred",
+    "turkish": "yüz",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100298,
+    "english": "hungry",
+    "turkish": "aç",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100299,
+    "english": "husband",
+    "turkish": "koca; eş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100300,
+    "english": "I",
+    "turkish": "ben",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100301,
+    "english": "ice",
+    "turkish": "buz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100302,
+    "english": "ice cream",
+    "turkish": "dondurma",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100303,
+    "english": "idea",
+    "turkish": "fikir",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100304,
+    "english": "if",
+    "turkish": "eğer",
+    "level": "A1",
+    "type": "conjunction",
+    "createdBy": "system"
+  },
+  {
+    "id": 100305,
+    "english": "important",
+    "turkish": "önemli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100306,
+    "english": "in",
+    "turkish": "içinde; -de/-da",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100307,
+    "english": "information",
+    "turkish": "bilgi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100308,
+    "english": "interest",
+    "turkish": "ilgi; ilgilendirmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100309,
+    "english": "interested",
+    "turkish": "ilgili",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100310,
+    "english": "interesting",
+    "turkish": "ilginç",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100311,
+    "english": "internet",
+    "turkish": "internet",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100312,
+    "english": "into",
+    "turkish": "içine",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100313,
+    "english": "invite",
+    "turkish": "davet etmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100314,
+    "english": "island",
+    "turkish": "ada",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100315,
+    "english": "it",
+    "turkish": "o (cansız/hayvan)",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100316,
+    "english": "its",
+    "turkish": "onun (cansız)",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100317,
+    "english": "jacket",
+    "turkish": "ceket",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100318,
+    "english": "January",
+    "turkish": "Ocak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100319,
+    "english": "jeans",
+    "turkish": "kot pantolon",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100320,
+    "english": "job",
+    "turkish": "iş",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100321,
+    "english": "join",
+    "turkish": "katılmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100322,
+    "english": "journey",
+    "turkish": "yolculuk",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100323,
+    "english": "juice",
+    "turkish": "meyve suyu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100324,
+    "english": "July",
+    "turkish": "Temmuz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100325,
+    "english": "June",
+    "turkish": "Haziran",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100326,
+    "english": "just",
+    "turkish": "sadece; az önce",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100327,
+    "english": "keep",
+    "turkish": "tutmak; saklamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100328,
+    "english": "key",
+    "turkish": "anahtar",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100329,
+    "english": "kind",
+    "turkish": "nazik; tür",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100330,
+    "english": "kitchen",
+    "turkish": "mutfak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100331,
+    "english": "know",
+    "turkish": "bilmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100332,
+    "english": "language",
+    "turkish": "dil",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100333,
+    "english": "large",
+    "turkish": "büyük",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100334,
+    "english": "last",
+    "turkish": "son; geçen",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100335,
+    "english": "late",
+    "turkish": "geç",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100336,
+    "english": "later",
+    "turkish": "daha sonra",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100337,
+    "english": "learn",
+    "turkish": "öğrenmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100338,
+    "english": "leave",
+    "turkish": "ayrılmak; bırakmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100339,
+    "english": "left",
+    "turkish": "sol",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100340,
+    "english": "leg",
+    "turkish": "bacak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100341,
+    "english": "lesson",
+    "turkish": "ders",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100342,
+    "english": "let",
+    "turkish": "izin vermek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100343,
+    "english": "letter",
+    "turkish": "harf; mektup",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100344,
+    "english": "library",
+    "turkish": "kütüphane",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100345,
+    "english": "life",
+    "turkish": "hayat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100346,
+    "english": "light",
+    "turkish": "ışık; hafif",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100347,
+    "english": "like",
+    "turkish": "sevmek; gibi",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100348,
+    "english": "line",
+    "turkish": "çizgi; sıra",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100349,
+    "english": "listen",
+    "turkish": "dinlemek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100350,
+    "english": "little",
+    "turkish": "küçük; az",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100351,
+    "english": "live",
+    "turkish": "yaşamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100352,
+    "english": "living room",
+    "turkish": "oturma odası",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100353,
+    "english": "long",
+    "turkish": "uzun",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100354,
+    "english": "look",
+    "turkish": "bakmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100355,
+    "english": "love",
+    "turkish": "sevmek; aşk",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100356,
+    "english": "lunch",
+    "turkish": "öğle yemeği",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100357,
+    "english": "machine",
+    "turkish": "makine",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100358,
+    "english": "magazine",
+    "turkish": "dergi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100359,
+    "english": "main",
+    "turkish": "ana; temel",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100360,
+    "english": "make",
+    "turkish": "yapmak; üretmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100361,
+    "english": "man",
+    "turkish": "adam",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100362,
+    "english": "many",
+    "turkish": "çok; birçok",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100363,
+    "english": "map",
+    "turkish": "harita",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100364,
+    "english": "March",
+    "turkish": "Mart",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100365,
+    "english": "market",
+    "turkish": "pazar; market",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100366,
+    "english": "married",
+    "turkish": "evli",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100367,
+    "english": "match",
+    "turkish": "maç; eşleşmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100368,
+    "english": "May",
+    "turkish": "Mayıs",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100369,
+    "english": "maybe",
+    "turkish": "belki",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100370,
+    "english": "me",
+    "turkish": "beni; bana",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100371,
+    "english": "meal",
+    "turkish": "öğün",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100372,
+    "english": "mean",
+    "turkish": "anlamına gelmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100373,
+    "english": "meaning",
+    "turkish": "anlam",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100374,
+    "english": "meet",
+    "turkish": "tanışmak; buluşmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100375,
+    "english": "meeting",
+    "turkish": "toplantı",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100376,
+    "english": "member",
+    "turkish": "üye",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100377,
+    "english": "menu",
+    "turkish": "menü",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100378,
+    "english": "message",
+    "turkish": "mesaj",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100379,
+    "english": "milk",
+    "turkish": "süt",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100380,
+    "english": "minute",
+    "turkish": "dakika",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100381,
+    "english": "miss",
+    "turkish": "özlemek; kaçırmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100382,
+    "english": "mobile",
+    "turkish": "cep telefonu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100383,
+    "english": "Monday",
+    "turkish": "Pazartesi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100384,
+    "english": "money",
+    "turkish": "para",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100385,
+    "english": "month",
+    "turkish": "ay",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100386,
+    "english": "more",
+    "turkish": "daha fazla",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100387,
+    "english": "morning",
+    "turkish": "sabah",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100388,
+    "english": "mother",
+    "turkish": "anne",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100389,
+    "english": "mountain",
+    "turkish": "dağ",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100390,
+    "english": "mouth",
+    "turkish": "ağız",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100391,
+    "english": "move",
+    "turkish": "hareket etmek; taşınmak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100392,
+    "english": "movie",
+    "turkish": "film",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100393,
+    "english": "much",
+    "turkish": "çok",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100394,
+    "english": "mum",
+    "turkish": "anne",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100395,
+    "english": "museum",
+    "turkish": "müze",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100396,
+    "english": "music",
+    "turkish": "müzik",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100397,
+    "english": "must",
+    "turkish": "zorunda olmak",
+    "level": "A1",
+    "type": "modal",
+    "createdBy": "system"
+  },
+  {
+    "id": 100398,
+    "english": "my",
+    "turkish": "benim",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100399,
+    "english": "name",
+    "turkish": "isim",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100400,
+    "english": "near",
+    "turkish": "yakın",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100401,
+    "english": "need",
+    "turkish": "ihtiyaç duymak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100402,
+    "english": "negative",
+    "turkish": "olumsuz",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100403,
+    "english": "never",
+    "turkish": "asla",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100404,
+    "english": "new",
+    "turkish": "yeni",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100405,
+    "english": "news",
+    "turkish": "haber",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100406,
+    "english": "newspaper",
+    "turkish": "gazete",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100407,
+    "english": "next",
+    "turkish": "sonraki",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100408,
+    "english": "nice",
+    "turkish": "hoş; güzel",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100409,
+    "english": "night",
+    "turkish": "gece",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100410,
+    "english": "nine",
+    "turkish": "dokuz",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100411,
+    "english": "nineteen",
+    "turkish": "on dokuz",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100412,
+    "english": "ninety",
+    "turkish": "doksan",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100413,
+    "english": "no",
+    "turkish": "hayır; hiç",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100414,
+    "english": "nobody",
+    "turkish": "hiç kimse",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100415,
+    "english": "north",
+    "turkish": "kuzey",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100416,
+    "english": "nose",
+    "turkish": "burun",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100417,
+    "english": "not",
+    "turkish": "değil",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100418,
+    "english": "nothing",
+    "turkish": "hiçbir şey",
+    "level": "A1",
+    "type": "pronoun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100419,
+    "english": "November",
+    "turkish": "Kasım",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100420,
+    "english": "now",
+    "turkish": "şimdi",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100421,
+    "english": "number",
+    "turkish": "sayı",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100422,
+    "english": "October",
+    "turkish": "Ekim",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100423,
+    "english": "of",
+    "turkish": "(-ın/-in); -ın/-in",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100424,
+    "english": "off",
+    "turkish": "kapalı; uzakta",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100425,
+    "english": "often",
+    "turkish": "sık sık",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100426,
+    "english": "oh",
+    "turkish": "ah",
+    "level": "A1",
+    "type": "interjection",
+    "createdBy": "system"
+  },
+  {
+    "id": 100427,
+    "english": "OK",
+    "turkish": "tamam",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100428,
+    "english": "old",
+    "turkish": "yaşlı; eski",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100429,
+    "english": "on",
+    "turkish": "üstünde; açık",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100430,
+    "english": "once",
+    "turkish": "bir kez",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100431,
+    "english": "one",
+    "turkish": "bir",
+    "level": "A1",
+    "type": "number",
+    "createdBy": "system"
+  },
+  {
+    "id": 100432,
+    "english": "only",
+    "turkish": "sadece",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100433,
+    "english": "open",
+    "turkish": "açmak; açık",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100434,
+    "english": "opposite",
+    "turkish": "karşısında; zıt",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100435,
+    "english": "or",
+    "turkish": "veya",
+    "level": "A1",
+    "type": "conjunction",
+    "createdBy": "system"
+  },
+  {
+    "id": 100436,
+    "english": "orange",
+    "turkish": "portakal; turuncu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100437,
+    "english": "order",
+    "turkish": "sipariş; düzen",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100438,
+    "english": "other",
+    "turkish": "diğer",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100439,
+    "english": "our",
+    "turkish": "bizim",
+    "level": "A1",
+    "type": "determiner",
+    "createdBy": "system"
+  },
+  {
+    "id": 100440,
+    "english": "out",
+    "turkish": "dışarı",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100441,
+    "english": "outside",
+    "turkish": "dışarıda",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100442,
+    "english": "over",
+    "turkish": "üzerinde; boyunca",
+    "level": "A1",
+    "type": "preposition",
+    "createdBy": "system"
+  },
+  {
+    "id": 100443,
+    "english": "own",
+    "turkish": "kendi",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100444,
+    "english": "page",
+    "turkish": "sayfa",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100445,
+    "english": "paint",
+    "turkish": "boyamak; boya",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100446,
+    "english": "painting",
+    "turkish": "resim",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100447,
+    "english": "pair",
+    "turkish": "çift",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100448,
+    "english": "paper",
+    "turkish": "kâğıt",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100449,
+    "english": "parent",
+    "turkish": "ebeveyn",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100450,
+    "english": "park",
+    "turkish": "park; park etmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100451,
+    "english": "part",
+    "turkish": "parça; bölüm",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100452,
+    "english": "partner",
+    "turkish": "eş; ortak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100453,
+    "english": "party",
+    "turkish": "parti; kutlama",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100454,
+    "english": "passport",
+    "turkish": "pasaport",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100455,
+    "english": "past",
+    "turkish": "geçmiş; -i geçe",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100456,
+    "english": "pay",
+    "turkish": "ödemek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100457,
+    "english": "pen",
+    "turkish": "tükenmez kalem",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100458,
+    "english": "pencil",
+    "turkish": "kurşun kalem",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100459,
+    "english": "people",
+    "turkish": "insanlar",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100460,
+    "english": "perfect",
+    "turkish": "mükemmel",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100461,
+    "english": "perhaps",
+    "turkish": "belki",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100462,
+    "english": "person",
+    "turkish": "kişi",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100463,
+    "english": "phone",
+    "turkish": "telefon",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100464,
+    "english": "photo",
+    "turkish": "fotoğraf",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100465,
+    "english": "photograph",
+    "turkish": "fotoğraf",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100466,
+    "english": "picture",
+    "turkish": "resim; fotoğraf",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100467,
+    "english": "piece",
+    "turkish": "parça",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100468,
+    "english": "pink",
+    "turkish": "pembe",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100469,
+    "english": "place",
+    "turkish": "yer",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100470,
+    "english": "plan",
+    "turkish": "plan; planlamak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100471,
+    "english": "plane",
+    "turkish": "uçak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100472,
+    "english": "plant",
+    "turkish": "bitki; dikmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100473,
+    "english": "play",
+    "turkish": "oynamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100474,
+    "english": "player",
+    "turkish": "oyuncu",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100475,
+    "english": "please",
+    "turkish": "lütfen",
+    "level": "A1",
+    "type": "interjection",
+    "createdBy": "system"
+  },
+  {
+    "id": 100476,
+    "english": "pleased",
+    "turkish": "memnun",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100477,
+    "english": "point",
+    "turkish": "nokta; işaret etmek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100478,
+    "english": "police",
+    "turkish": "polis",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100479,
+    "english": "pool",
+    "turkish": "havuz",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100480,
+    "english": "poor",
+    "turkish": "fakir; kötü",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100481,
+    "english": "popular",
+    "turkish": "popüler",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100482,
+    "english": "positive",
+    "turkish": "olumlu",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100483,
+    "english": "possible",
+    "turkish": "mümkün",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100484,
+    "english": "post",
+    "turkish": "posta; göndermek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100485,
+    "english": "potato",
+    "turkish": "patates",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100486,
+    "english": "pound",
+    "turkish": "sterlin; pound",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100487,
+    "english": "practice",
+    "turkish": "alıştırma; pratik yapmak",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100488,
+    "english": "prefer",
+    "turkish": "tercih etmek",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100489,
+    "english": "prepare",
+    "turkish": "hazırlamak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100490,
+    "english": "present",
+    "turkish": "hediye; mevcut",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100491,
+    "english": "pretty",
+    "turkish": "güzel; oldukça",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100492,
+    "english": "price",
+    "turkish": "fiyat",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100493,
+    "english": "probably",
+    "turkish": "muhtemelen",
+    "level": "A1",
+    "type": "adverb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100494,
+    "english": "problem",
+    "turkish": "sorun",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100495,
+    "english": "product",
+    "turkish": "ürün",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100496,
+    "english": "programme",
+    "turkish": "program",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100497,
+    "english": "project",
+    "turkish": "proje",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  },
+  {
+    "id": 100498,
+    "english": "purple",
+    "turkish": "mor",
+    "level": "A1",
+    "type": "adjective",
+    "createdBy": "system"
+  },
+  {
+    "id": 100499,
+    "english": "put",
+    "turkish": "koymak",
+    "level": "A1",
+    "type": "verb",
+    "createdBy": "system"
+  },
+  {
+    "id": 100500,
+    "english": "quarter",
+    "turkish": "çeyrek",
+    "level": "A1",
+    "type": "noun",
+    "createdBy": "system"
+  }
+]
